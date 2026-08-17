@@ -1,5 +1,5 @@
 バージョン管理システム
 
 ```python
-print("Hello World")
+print("Hello World000")
 ```
